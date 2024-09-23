@@ -14,9 +14,11 @@ Remember to Configure project in order to activate CMake menu
 ## Folder Structure
 
 The repository has the following folder structure:
+
 - include folder has the source code of different examples
 
 Inside this folder:
+
 - sample_static include a example of static analysis using cppcheck
 - Rest of sample_san_xxx folders contain examples of dynamic analysis using different google sanitizers
 
