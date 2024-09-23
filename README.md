@@ -4,7 +4,7 @@ Welcome to the `icp1_s4` repository!
 
 ## Description
 
-This repository is created to ilustrate some examples using Static Analysis and Dynamic Analysis. Some of them are based on the original ones from https://github.com/google/sanitizers and just rewritten to C language.
+This repository is created to ilustrate some examples using Static Analysis and Dynamic Analysis. Some of them are based on the original ones from [Google Sanitizers](https://github.com/google/sanitizers) and just rewritten to C language.
 
 ## Getting Started
 
